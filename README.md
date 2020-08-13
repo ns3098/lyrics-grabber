@@ -28,8 +28,6 @@ Customize where the lyrics source, adding a song title, or even whether to enabl
 ### Quality updates.
 Whenever an update's available, a notification will pop up as the app is opened. Or, since impatience is also a thing, manual checks can be triggered through the about screen. Conveniently packaged in a .msi installer, or portable .exe for Windows, and .app or .dmg for macOS.
 
-<img src="/docs/screenshots/mac/about.png?raw=true" height="300" style="margin: 5px">
-
 ## Build and run
 
 You'll need Python 3.5+.
